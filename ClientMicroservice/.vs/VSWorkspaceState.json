@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\Application\\Cliente",
+    "\\src\\Application\\Cliente\\Create",
+    "\\src\\Web.Api",
+    "\\test\\UnitTest",
+    "\\test\\UnitTest\\Application.ClienteAccount.UnitTest",
+    "\\test\\UnitTest\\Application.ClienteAccount.UnitTest\\Create"
+  ],
+  "SelectedNode": "\\src\\Web.Api\\Web.Api.csproj",
+  "PreviewInSolutionExplorer": false
+}

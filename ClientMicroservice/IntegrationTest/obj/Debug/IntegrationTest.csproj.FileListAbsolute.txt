@@ -1,0 +1,2 @@
+C:\Users\ASUS\Desktop\Neo\IntegrationTest\obj\Debug\IntegrationTest.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Neo\IntegrationTest\obj\Debug\IntegrationTest.csproj.CoreCompileInputs.cache
