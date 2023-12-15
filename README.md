@@ -38,6 +38,8 @@ dotnet run
 
 ## 5. Acceso 
  Después de ejecutar ambos microservicios, estarán disponibles en las siguientes direcciones:
-ClientMicroservice: [https://localhost:7238/)]
-AccountMicroservice: [https://localhost:7239/)]
+ClientMicroservice: https://localhost:7238/
+AccountMicroservice: https://localhost:7239/
 
+## 7. ¡Listo!
+Ahora deberías tener ambos microservicios en ejecución y conectados a la base de datos 'DBACCOUNT'. 
