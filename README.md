@@ -35,3 +35,9 @@ cd AccountMicroservice
 dotnet build
 dotnet run
 ```
+
+## 5. Acceso 
+ Después de ejecutar ambos microservicios, estarán disponibles en las siguientes direcciones:
+ClientMicroservice: [https://localhost:7238/)]
+AccountMicroservice: [https://localhost:7239/)]
+
